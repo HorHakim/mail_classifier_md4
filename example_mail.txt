@@ -1,0 +1,5 @@
+Bonjour, depuis 9h30, les employés de l’étage 3 ne parviennent plus à
+se connecter à Internet. Aucun appareil ne reçoit d’adresse IP, et les
+points d'accès semblent hors ligne. Cette panne impacte la
+productivité de plusieurs équipes. Pouvez-vous dépêcher un technicien
+sur place dès que possible ?
